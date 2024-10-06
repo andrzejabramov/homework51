@@ -1,0 +1,11 @@
+{
+  "userId": "12",
+  "title": "my test post",
+  "body": "message in body 1",
+  "photo": [
+    "image1.png",
+    "image2.jpg",
+    "image3.pdf"
+  ],
+  "id": 101
+}
